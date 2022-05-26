@@ -1,1 +1,2 @@
 Switch current user to betty
+Who am i
