@@ -8,3 +8,4 @@ Multiple permissions
 Everybody
 No permission
 Mode
+Same mode
