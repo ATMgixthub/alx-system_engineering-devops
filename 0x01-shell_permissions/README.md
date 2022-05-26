@@ -3,3 +3,4 @@ Who am i
 Groups
 Change owner
 Empty file
+Execute permission
