@@ -4,3 +4,4 @@ file type
 symlink
 html files
 uppercase
+clean
