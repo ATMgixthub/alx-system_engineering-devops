@@ -7,3 +7,4 @@ Execute permission
 Multiple permissions
 Everybody
 No permission
+Mode
