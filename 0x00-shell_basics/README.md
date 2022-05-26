@@ -5,3 +5,4 @@ display contents in long format
 display hidden files
 current directory contents
 create directory
+move file
