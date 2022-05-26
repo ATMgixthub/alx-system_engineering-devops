@@ -7,3 +7,4 @@ uppercase
 clean
 tree
 commas
+school
