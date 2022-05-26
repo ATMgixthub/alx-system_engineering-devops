@@ -5,3 +5,4 @@ symlink
 html files
 uppercase
 clean
+tree
