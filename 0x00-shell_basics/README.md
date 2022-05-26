@@ -3,3 +3,4 @@ listing in order
 file type
 symlink
 html files
+uppercase
