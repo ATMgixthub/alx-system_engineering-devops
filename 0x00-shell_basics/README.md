@@ -6,3 +6,4 @@ display hidden files
 current directory contents
 create directory
 move file
+delete file
