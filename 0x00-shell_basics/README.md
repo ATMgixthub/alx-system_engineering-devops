@@ -4,3 +4,4 @@ script to change directory to users home direcctory
 display contents in long format
 display hidden files
 current directory contents
+create directory
