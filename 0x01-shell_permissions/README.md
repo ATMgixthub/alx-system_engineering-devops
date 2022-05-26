@@ -6,3 +6,4 @@ Empty file
 Execute permission
 Multiple permissions
 Everybody
+No permission
