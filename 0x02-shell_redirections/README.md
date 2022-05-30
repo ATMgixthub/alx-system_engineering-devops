@@ -7,3 +7,4 @@ Last lines
 First lines
 Third line
 File
+State
