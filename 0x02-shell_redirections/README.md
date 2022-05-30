@@ -5,3 +5,4 @@ Content of file
 About two
 Last lines
 First lines
+Third line
