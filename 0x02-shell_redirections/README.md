@@ -11,3 +11,4 @@ State
 No more js
 Newest files
 Find
+Count
