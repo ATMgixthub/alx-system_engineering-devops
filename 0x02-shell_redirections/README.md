@@ -15,3 +15,4 @@ Count
 Next
 Hide
 Letters only
+A-Z
