@@ -17,3 +17,4 @@ Hide
 Letters only
 A-Z
 Remove letters
+Reverse
