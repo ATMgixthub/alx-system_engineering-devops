@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -A 3 root /etc/passwd chmod u+x 16-whatsnext
+grep -A 3 root /etc/passwd
