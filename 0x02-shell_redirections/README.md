@@ -14,3 +14,4 @@ Find
 Count
 Next
 Hide
+Letters only
