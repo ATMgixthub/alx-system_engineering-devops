@@ -18,3 +18,4 @@ Letters only
 A-Z
 Remove letters
 Reverse
+Users and Homes
