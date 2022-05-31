@@ -19,3 +19,4 @@ A-Z
 Remove letters
 Reverse
 Users and Homes
+Unique
