@@ -20,3 +20,4 @@ Remove letters
 Reverse
 Users and Homes
 Unique
+Directories
