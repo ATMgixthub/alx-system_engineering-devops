@@ -3,3 +3,4 @@ Alias
 Hello you
 Paths
 Global variables
+Local variables
