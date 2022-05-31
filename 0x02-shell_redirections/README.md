@@ -13,3 +13,4 @@ Newest files
 Find
 Count
 Next
+Hide
