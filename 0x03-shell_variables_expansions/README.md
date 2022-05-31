@@ -5,3 +5,4 @@ Paths
 Global variables
 Local variables
 Local variable
+Global variable
