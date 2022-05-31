@@ -8,3 +8,4 @@ Local variable
 Global variable
 Addition
 Divide and rule
+Power
