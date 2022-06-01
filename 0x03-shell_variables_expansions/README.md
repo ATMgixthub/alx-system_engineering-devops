@@ -10,3 +10,4 @@ Addition
 Divide and rule
 Power
 Convert
+Combination
