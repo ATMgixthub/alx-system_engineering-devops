@@ -12,3 +12,4 @@ Power
 Convert
 Combination
 Float
+Encryption
