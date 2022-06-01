@@ -23,3 +23,4 @@ Unique
 Directories
 Duplicate last line
 Empty casks
+Gifs
