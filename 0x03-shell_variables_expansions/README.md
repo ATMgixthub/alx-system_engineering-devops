@@ -11,3 +11,4 @@ Divide and rule
 Power
 Convert
 Combination
+Float
