@@ -13,3 +13,4 @@ Convert
 Combination
 Float
 Encryption
+Hexa
