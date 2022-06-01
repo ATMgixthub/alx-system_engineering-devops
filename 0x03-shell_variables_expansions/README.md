@@ -14,3 +14,4 @@ Combination
 Float
 Encryption
 Hexa
+Star
