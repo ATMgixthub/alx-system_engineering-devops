@@ -1,6 +1,7 @@
 #Readme for shell variables and expansions
 Alias
 Hello you
+Path
 Paths
 Global variables
 Local variables
@@ -15,3 +16,4 @@ Float
 Encryption
 Hexa
 Star
+Odd
