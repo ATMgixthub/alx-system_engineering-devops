@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This script displays "Holberton School" 10 times and says "Hi" during the 9th
+# This script displays "Best School" 10 times and says "Hi" during the 9th
 
 count=0
 
@@ -9,6 +9,6 @@ do
   then
     echo "Hi"
   fi
-  echo "Holberton School"
+  echo "Best School"
   (( count++ ))
 done
